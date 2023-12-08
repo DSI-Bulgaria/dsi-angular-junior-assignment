@@ -24,6 +24,7 @@ comments. Remove any unused code, console logs, and files. Use logical project
 structure and code separation.
 
 **SPECS**
+
 3. The formatting of the codebase should be consistent and written in a modular approach
 4. Create a header with navigation icons/links/buttons for main and favorites screen.
 5. The main screen (weather details) will be composed of a search field to search a
